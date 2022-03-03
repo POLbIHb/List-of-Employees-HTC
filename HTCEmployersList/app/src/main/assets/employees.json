@@ -1,0 +1,48 @@
+{
+  "company": {
+    "name":"High Technologies Center",
+    "age": "18",
+    "competences": ["Android", "IOS", ".NET", "PHP", "Smart-TV", "Java"],
+    "employees": [{
+      "name": "John",
+      "phone_number": "769453",
+      "skills": ["Java", "Android"]
+    }, {
+      "name": "Diego",
+      "phone_number": "987924",
+      "skills": ["Java", "Smart-TV"]
+    }, {
+      "name": "Alfred",
+      "phone_number": "452533",
+      "skills": ["Java", "Smart-TV"]
+    }, {
+      "name": "Alfred",
+      "phone_number": "212456",
+      "skills": ["Java", "Phython"]
+    }, {
+      "name": "Mat",
+      "phone_number": "778975",
+      "skills": ["Android", "MovieMaker"]
+    }, {
+      "name": "Bob",
+      "phone_number": "456468",
+      "skills": ["Groovy", "Kotlin"]
+    }, {
+      "name": "Marty",
+      "phone_number": "123",
+      "skills": ["Android"]
+    }, {
+      "name": "Morty",
+      "phone_number": "321789",
+      "skills": ["PHP"]
+    }, {
+      "name": "Morty",
+      "phone_number": "321789",
+      "skills": ["C#"]
+    }, {
+      "name": "Rick",
+      "phone_number": "321789",
+      "skills": ["C#"]
+    }]
+  }
+}
